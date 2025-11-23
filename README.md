@@ -2,4 +2,4 @@
 
 
 # Observation
-We can predict the price of the laptop which is desired by the user as per his input with help of this ..
+This project demonstrates that we can use machine-learning techniques to predict laptop price effectively based on the input given by the user. We also found that there is a minimal error(Difference) between the predicted and actual price of a laptop. But it gave accurate results and the laptop corresponding to the predicted price had all specifications which were given to it as input. 
