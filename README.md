@@ -8,4 +8,10 @@ This project demonstrates that we can use machine-learning techniques to predict
 Following graphs compare the actual laptop prices with the predicted ones, they make it easy to see how close the model's predictions are to the real values. And they help us to compare the laptop models which are available in the same price range.
 
 # Limitation
-we have to accept that a perfect match between the actual prices and the predicted prices cannot be made and even not possible, especially at the end of the graph. This is because the model cannot include each and every factor that affects the laptop prices(these factors may be :- Build quality, Brand value, Rating, etc)
+we have to accept that a perfect match between the actual prices and the predicted prices cannot be made and even not possible, especially at the end of the graph. This is because the model cannot include each and every factor that affects the laptop prices(these factors may be :- Build quality, Brand value, Rating, etc).
+
+# Features relatibility with Price
+Few features cannot be relatable as per the predicted price because there are many factors affecting high performance devices functioning and all doesn't come under the price of device care of those accesories has to be taken seperately.
+
+# Conclusion
+The resulting Multiple Linear Regression model hands us with a robust and transparent method for predicting laptop prices based on specifications provided by the user in the input. It allows a user to input desired specs and get a spontaneous data driven estimated price. Price of a specific hardware component or a laptop may varry place to place as per the factors like availability and it's transport cost(from the place of production to place of retail).
