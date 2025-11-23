@@ -6,7 +6,7 @@
 
 The goal of this project was to develop a **regression model** to accurately predict the **Price** of a laptop (in USD) based on a variety of hardware specifications and attributes. We utilized a variety of modeling techniques, including **Single Linear Regression**, **Multiple Linear Regression**, and **Polynomial Regression**.
 
-The project data is a modified subset of the **Laptop Price Prediction** dataset from Kaggle. The best performing simple model, **Multiple Linear Regression (MLR)**, achieved an **R² score of 0.825** (82.5%) and a Mean Squared Error (**MSE**) of **56,956**.
+The project data is a modified subset of the **Laptop Price Prediction** dataset from Kaggle. The best performing simple model, **Multiple Linear Regression (MLR)**, achieved an **R² score of 0.5083** (50.83%) and a Mean Squared Error (**MSE**) of **161680.57**.
 
 ***
 
