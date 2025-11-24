@@ -1,4 +1,4 @@
-# 💻 Laptop Price Prediction: A Regression Analysis
+# Laptop Price Prediction: A Regression Analysis
 
 ## Overview
 The goal of this project was to create and evaluate multiple **regression models** to accurately predict the price of laptops based on their core specifications. This analysis utilized a filtered and modified subset of the **Laptop Price Prediction using specifications dataset** from Kaggle.
@@ -9,7 +9,7 @@ A comprehensive multi-variable model achieved an **R-squared (R²)** score of **
 
 ***
 
-## 📈 Business Understanding
+## Business Understanding
 In the competitive electronics market, accurately **pricing new laptop models** is critical for manufacturers and retailers. Setting an optimal price maximizes profitability while maintaining market share.
 
 The objective of this project is to create a predictable model that quantifies the relationship between internal hardware specifications (e.g., **CPU frequency**, **RAM**, **Storage\_GB\_SSD**) and the final **Price**. This understanding is invaluable for:
@@ -45,7 +45,7 @@ Categorical features (`Category`, `GPU`, `OS`, `CPU_core`) were converted to **n
 
 ***
 
-## ⚙️ Modeling and Evaluation
+## Modeling and Evaluation
 
 ### Objectives
 The project focused on the following regression tasks:
@@ -70,7 +70,7 @@ The **R² score of 0.5083** indicates that approximately 50.83% of the variabili
 
 ***
 
-## ✅ Conclusion
+## Conclusion
 The regression analysis successfully developed models to predict laptop prices. While the linear and lower-degree polynomial models showed a weak fit, the **multi-variable polynomial pipeline** provided a reasonable first-pass prediction.
 
 ### Future Work
