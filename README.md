@@ -18,7 +18,7 @@ The objective of this project is to create a predictable model that quantifies t
 
 ***
 
-## 📊 Data Understanding
+## Data Understanding
 The dataset used is a filtered and modified version of the **Laptop Price Prediction using specifications dataset**, available on the Kaggle website under the Database Contents License (DbCL) v1.0.
 
 The data consists of features covering various aspects of a laptop's hardware and the target variable, **Price** (in USD).
